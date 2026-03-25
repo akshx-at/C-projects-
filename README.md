@@ -52,11 +52,10 @@ If a directory does not include a `Makefile`, compile it directly with `gcc` usi
 - File naming follows the original class conventions to make it easier to map each folder back to the assignment prompt.
 - This repository is best read as an archive of individual programming projects rather than as a single unified application.
 
-## Skills Demonstrated
+## Key Skills Gained
 
-- C programming
-- Basic assembly programming
-- Problem decomposition
-- Data structures and algorithms
-- Testing against provided input/output cases
-- Working within assignment constraints and starter code layouts
+- Writing modular C programs across multi-file assignments
+- Reading, debugging, and extending low-level code and basic assembly
+- Applying core data structures and algorithms to constrained problems
+- Building confidence with Makefiles, command-line compilation, and test-driven iteration
+- Translating assignment specifications into working implementations with clear interfaces
